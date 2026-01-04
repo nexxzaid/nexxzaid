@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white" />
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-Learning...-yellow?style=for-the-badge&logo=c&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembler-Future...-lightgrey?style=for-the-badge&logo=cpu" />
